@@ -644,4 +644,4 @@ lapack_dep = declare_dependency(
 # subdir('ndimage')
 # subdir('odr')
 # subdir('datasets')
-# subdir('misc')
+subdir('misc')
