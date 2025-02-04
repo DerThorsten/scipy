@@ -625,7 +625,7 @@ lapack_dep = declare_dependency(
   link_with: [g77_abi_wrappers, blas_lapack_wrapper_lib]
 )
 
-# subdir('_lib')
+subdir('_lib')
 # subdir('special')
 # subdir('linalg')
 # subdir('sparse')
