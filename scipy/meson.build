@@ -627,7 +627,7 @@ lapack_dep = declare_dependency(
 
 subdir('_lib')
 subdir('special')
-subdir('linalg')
+# subdir('linalg')
 subdir('sparse')
 subdir('stats')
 subdir('fft')
