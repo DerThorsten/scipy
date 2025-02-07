@@ -5,6 +5,7 @@
 	path = scipy/sparse/linalg/_propack/PROPACK
 	url = https://github.com/DerThorsten/PROPACK.git
 	shallow = true
+
 [submodule "scipy/_lib/unuran"]
 	path = scipy/_lib/unuran
 	url = https://github.com/scipy/unuran.git
